@@ -6436,4 +6436,13 @@ let wines = [
       "https://images.vivino.com/thumbs/l_eXmV1KTdGzz3ky_Qey3A_pb_x300.png",
     id: 717,
   },
+  {
+    winery: "Pine Ridge",
+    wine: "Fortis Cabernet Sauvignon N.V.",
+    rating: { average: "4.7", reviews: "546 ratings" },
+    location: "United States\n·\nNapa Valley",
+    image:
+      "https://images.vivino.com/thumbs/nu85uiOyQiay0d_WLhYTNg_pb_x300.png",
+    id: 718,
+  },
 ];
