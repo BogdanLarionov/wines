@@ -1,4 +1,4 @@
-export const wines =[
+let wines = [
   {
     winery: "Maselva",
     wine: "Emporda 2012",
@@ -6444,5 +6444,5 @@ export const wines =[
     image:
       "https://images.vivino.com/thumbs/nu85uiOyQiay0d_WLhYTNg_pb_x300.png",
     id: 718,
-  }
+  },
 ];
